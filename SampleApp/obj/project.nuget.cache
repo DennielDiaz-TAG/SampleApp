@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6UYQZ4TfZklGXEwr1rHn5S7NWdjPBtm4OAtcE8TGRo0WQgckeN+pg/RreiJMMhl4HHjA+KPr2cn1RIqCdgOhw==",
+  "success": true,
+  "projectFilePath": "/Users/denniel.diaz/Projects/SampleApp/SampleApp/SampleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://teamcity.access-aps.com:5000/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
